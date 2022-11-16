@@ -1,5 +1,5 @@
-import './nav.css'
-import { useEffect, useState } from 'react';
+import './nav.css';
+
 
 const Nav = () => {
   return (
