@@ -10,7 +10,7 @@ function Content() {
   // const getMovies = async() => {
   //   const response = await axios.get("https://api.themoviedb.org/3/movie/top_rated", {
   //     params: {
-  //       api_key: "3d17118668a367ee70a12ad05e56d8f4"
+  //       api_key: ""
   //     }
   //   })
   //   setMovies(response.data.results);
@@ -30,5 +30,5 @@ function Content() {
   );
 }
 
-// 3d17118668a367ee70a12ad05e56d8f4
+// 
 export default Content
